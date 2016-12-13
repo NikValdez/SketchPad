@@ -22,27 +22,12 @@ $(".reset").click(function() {
         $(".squares").css({"background-color" : "#FFF", "border-color" : "#FFF"});
     });
 
-
-
-
-
-
 });
 
 
  
 
 
-
-
-
-// $(function clean() {
-// 	$(".squares").css;
-// });
-
-// $('.reset').click(function() {
-// 		clean();
-// 	});
 
 
 
